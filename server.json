@@ -1,0 +1,12 @@
+{
+        "servers": [
+                {
+                            "name": "SideStore",
+                                        "address": "https://ani.sidestore.io"
+                                                },
+                                                        {
+                                                                    "name": "SelfHost",
+                                                                                "address": "自建Anisette Servers地址"
+                                                                                        }
+                                                                                            ]
+                                                                                            }
